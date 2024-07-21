@@ -19,12 +19,12 @@ Cloud Functions pour le traitement côté serveur et l'intégration avec des API
 Authentification :
 
 Clerk pour une authentification sécurisée et personnalisable
-Intégration de l'authentification biométrique (empreinte digitale, reconnaissance faciale)
+Possibilité d'intégration de l'authentification biométrique (empreinte digitale, reconnaissance faciale)
 
 
 Fonctionnalités clés :
 
-Tableau de bord interactif avec graphiques de dépenses (react-native-chart-kit)
+Tableau de bord interactif avec graphiques de dépenses
 Transferts d'argent en temps réel (Firebase Realtime Database)
 Gestion de cartes virtuelles et physiques
 Conversion de devises en temps réel (API externe)
@@ -33,9 +33,7 @@ Notifications push (Firebase Cloud Messaging)
 
 Sécurité :
 
-Chiffrement de bout en bout pour les transactions
-Stockage sécurisé des données sensibles (react-native-keychain)
-Détection de fraude en temps réel (algorithmes ML sur Firebase)
+Stockage sécurisé des données sensibles (react-native-mmkv)
 
 
 Performance :
