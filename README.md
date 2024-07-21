@@ -56,13 +56,17 @@ Analyse statique du code avec ESLint
 Cette architecture robuste et évolutive permet un développement rapide, une maintenance facile et une expérience utilisateur fluide, faisant de notre application un choix idéal pour les utilisateurs exigeants en matière de services financiers mobiles.
 
 # Screenshots
-![Simulator Screenshot 1](https://github.com/user-attachments/assets/b4e94d18-9e7a-4c53-a953-4ee9372846ec)
-![Simulator Screenshot 2](https://github.com/user-attachments/assets/8d4a2034-dfa9-4485-9523-67ad2c592a0e)
-![Simulator Screenshot 3](https://github.com/user-attachments/assets/1333a45d-4094-41a4-9d45-2ded568849e5)
-![Simulator Screenshot 4](https://github.com/user-attachments/assets/8d979aca-e89a-4e7f-9250-b4d84f68b3bd)
-![Simulator Screenshot 5](https://github.com/user-attachments/assets/0aa02a64-5f80-4364-b7a7-4ae1d919202c)
-![Simulator Screenshot 6](https://github.com/user-attachments/assets/6fccbac4-b3b9-45e6-b67f-4cf72bec0174)
-![Simulator Screenshot 7](https://github.com/user-attachments/assets/73d8be63-a280-4332-bdf3-aa5ee7da60b6)
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="https://github.com/user-attachments/assets/b4e94d18-9e7a-4c53-a953-4ee9372846ec" width=25%>
+<img src="https://github.com/user-attachments/assets/8d4a2034-dfa9-4485-9523-67ad2c592a0e" width=25%>
+<img src="https://github.com/user-attachments/assets/1333a45d-4094-41a4-9d45-2ded568849e5" width=25%>
+<img src="https://github.com/user-attachments/assets/8d979aca-e89a-4e7f-9250-b4d84f68b3bd" width=25%>
+<img src="https://github.com/user-attachments/assets/0aa02a64-5f80-4364-b7a7-4ae1d919202c" width=25%>
+<img src="https://github.com/user-attachments/assets/6fccbac4-b3b9-45e6-b67f-4cf72bec0174" width=25%>
+<img src="https://github.com/user-attachments/assets/73d8be63-a280-4332-bdf3-aa5ee7da60b6" width=25%>
+
+</div>
 
 # Video démonstration
 
