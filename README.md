@@ -58,10 +58,10 @@ Cette architecture robuste et évolutive permet un développement rapide, une ma
 <div style="display: flex; flex-direction: 'row';">
 <img src="https://github.com/user-attachments/assets/b4e94d18-9e7a-4c53-a953-4ee9372846ec" width=25%>
 <img src="https://github.com/user-attachments/assets/8d4a2034-dfa9-4485-9523-67ad2c592a0e" width=25%>
-<img src="https://github.com/user-attachments/assets/1333a45d-4094-41a4-9d45-2ded568849e5" width=25%>
+<img src="https://github.com/user-attachments/assets/5256d099-2775-40de-9075-e7ce0614bac2" width=25%>
 <img src="https://github.com/user-attachments/assets/8d979aca-e89a-4e7f-9250-b4d84f68b3bd" width=25%>
-<img src="https://github.com/user-attachments/assets/0aa02a64-5f80-4364-b7a7-4ae1d919202c" width=25%>
-<img src="https://github.com/user-attachments/assets/6fccbac4-b3b9-45e6-b67f-4cf72bec0174" width=25%>
+<img src="https://github.com/user-attachments/assets/bf19e1e3-7819-4a39-b6ab-06e2cd82868b" width=25%>
+<img src="https://github.com/user-attachments/assets/371ad8f4-e243-43e7-9396-142a7dc3922a" width=25%>
 <img src="https://github.com/user-attachments/assets/73d8be63-a280-4332-bdf3-aa5ee7da60b6" width=25%>
 
 </div>
